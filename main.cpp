@@ -5,5 +5,7 @@ int main(){
 	printf("hello2");
 	printf("hello3");
 
+	printf("コンフリクトを起こすための作業");
+
 	return 0;
 }
